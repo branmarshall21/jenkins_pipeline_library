@@ -1,0 +1,2 @@
+#ignore all vagrant compile files
+*.vagrant
